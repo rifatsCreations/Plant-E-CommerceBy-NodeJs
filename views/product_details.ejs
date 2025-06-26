@@ -1,0 +1,23 @@
+
+<main>
+
+
+
+<div class="contiainer">
+    <div class="row">
+        <div class="col-md-12">
+            <h1><%= product.product_title %></h1>
+            <img src="<%= product.image_path %>" alt="<%= product.product_title %>">
+            <p><%= product.product_description %></p>
+            <p>Price: <%= product.product_price %> TK</p>
+            <form action="/cart/add" method="POST" class="text-center">
+                <input type="hidden" name="productId" value="<%= product.id %>">
+                <button type="submit" class="btn btn-lg btn-dark">Add to Cart</button>
+              </form>
+        </div>
+    </div>
+</div>
+      
+
+
+</main>

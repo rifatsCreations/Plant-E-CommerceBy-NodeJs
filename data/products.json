@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PROD_1740071307333_365",
+    "product_title": "Dendrobium",
+    "product_price": "650",
+    "product_description": "Dendrobium is a genus of orchids with many species that grow in tropical and subtropical regions. They are known for their delicate, colorful flowers. ",
+    "image_path": "/uploads/product-1740071307329.png"
+  },
+  {
+    "id": "PROD_1740071351812_766",
+    "product_title": "Bunny Cactus",
+    "product_price": "600",
+    "product_description": "The bunny ear cactus (Opuntia microdasys) is a low-maintenance cactus with flat, oval-shaped pads that resemble rabbit ears.",
+    "image_path": "/uploads/product-1740071351808.png"
+  },
+  {
+    "id": "PROD_1740071430081_468",
+    "product_title": "Agloenema",
+    "product_price": "1200",
+    "product_description": "Aglaonema are great beginner plants. Not only are the incredibly easy-going, they are hardy & resilient plants.",
+    "image_path": "/uploads/product-1740071430079.png"
+  },
+  {
+    "id": "PROD_1740071473551_97",
+    "product_title": "Succulent",
+    "product_price": "350",
+    "product_description": "Succulents are plants with thick, fleshy parts that store water to survive in dry environments.",
+    "image_path": "/uploads/product-1740071473550.png"
+  },
+  {
+    "id": "PROD_1740071517851_694",
+    "product_title": "Purple Kale",
+    "product_price": "250",
+    "product_description": "Purple kale is a leafy vegetable with ruffled, purple leaves and a cabbage-like flavor",
+    "image_path": "/uploads/product-1740071517848.png"
+  },
+  {
+    "id": "PROD_1740071579225_395",
+    "product_title": "Tetrasperma",
+    "product_price": "850",
+    "product_description": "Rhaphidophora tetrasperma, the mini monstera, is a species of flowering plant in the family Araceae, genus Rhaphidophora.",
+    "image_path": "/uploads/product-1740071579221.png"
+  },
+  {
+    "id": "PROD_1750358552801_366",
+    "product_title": "Oxalis",
+    "product_price": "280",
+    "product_description": "Oxalis Plant Flower Look a like Butterfly",
+    "image_path": "/uploads/product-1750358552793.jpg"
+  },
+  {
+    "id": "PROD_1750504483342_92",
+    "product_title": "Buno Flower",
+    "product_price": "150",
+    "product_description": "Beautiful Flowers",
+    "image_path": "/uploads/product-1750504483339.png"
+  }
+]

@@ -1,4 +1,5 @@
-🌿 Priyogach Plant Shop  
+# 🌿 Priyogach Plant Shop
+
 A simple yet functional e-commerce website focused on selling plants and gardening products, built with Node.js, Express.js, and Bootstrap. This project offers both admin management and customer shopping experiences in a clean, user-friendly interface.
 
 🚀 Features
